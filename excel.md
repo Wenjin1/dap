@@ -31,3 +31,8 @@ The table below lists keyboard shortcuts for some of the most common Excel tasks
 |Edit the active cell and put the cursor at the end of the cell's contents	|F2|
 |Enter the current time	|Ctrl+Shift+colon (:)|
 |Enter the current date	|Ctrl+semi-colon (;)|
+
+|Pro|Con|
+|---|---|
+|easy to use|not recommend for analysing large datasets|
+|easy to visualize|can not reproduct the data(you may not know what you have done with your data when you reopen the excel sheet)|
