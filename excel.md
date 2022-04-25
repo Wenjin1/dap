@@ -35,4 +35,4 @@ The table below lists keyboard shortcuts for some of the most common Excel tasks
 |Pro|Con|
 |---|---|
 |easy to use|not recommend for analysing large datasets|
-|easy to visualize|can not reproduct the data(you may not know what you have done with your data when you reopen the excel sheet)|
+|easy to visualize|can not reproduce the data(you may not know what you have done with your data when you reopen the excel sheet)|
